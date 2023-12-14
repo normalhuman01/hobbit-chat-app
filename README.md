@@ -28,17 +28,17 @@ npx gitignore node
 
 <hr>
 
-#### Aula 02 - State, novas páginas e navegação SPA vs a Tradicional
+#### Class 02 - State, new pages and SPA vs Traditional navigation
 
 [custom-app](https://nextjs.org/docs/advanced-features/custom-app)
 
 <hr>
 
-#### Aula 03 - Chat offline? Aprimorando as habilidades com State
+#### Class 03 - Offline chat? Improving your skills with State
 
 <hr>
 
-#### Aula 04 - Integrando com o Supabase
+#### Class 04 - Integrating with Supabase
 * [supabase](https://supabase.com/)
 * [api.github](https://api.github.com/users/lucasrmagalhaes)
 

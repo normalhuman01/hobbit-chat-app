@@ -1,8 +1,8 @@
-### Hobbit Chat: Imersão React 4 - Alura
+### Hobbit Chat: React 4 Immersion
 
 <hr>
 
-#### Aula 1 - Criando o nosso projeto
+#### Class 1 - Creating our project
 
 ##### Manual Setup
 [getting-started](https://nextjs.org/docs/getting-started)
@@ -68,7 +68,7 @@ supabaseClient
 
 <hr>
 
-#### Aula 05 - Adicionando suporte para Stickers
+#### Classroom 05 - Adding support for Stickers
 
 <hr>
 
